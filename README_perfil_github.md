@@ -32,19 +32,15 @@ My focus is on **real production systems** that run 24/7 without human intervent
 
 ### 🤖 Virtual Receptionist Agent (WhatsApp)
 Autonomous 39-node agent handling appointment scheduling, reminders, and customer queries 24/7 via WhatsApp. Deployed for barbershops, dental clinics, and aesthetic centers.
-→ [Ver repositorio](https://github.com/TU_USUARIO/virtual-receptionist-whatsapp)
 
 ### 📣 B2B Sales Prospecting Agent (WhatsApp)
 Automated outbound sales agent that generates personalized messages with GPT-4o, listens to replies via webhooks, and updates CRM in real time. Runs Mon–Fri without human trigger.
-→ [Ver repositorio](https://github.com/TU_USUARIO/b2b-sales-prospecting-agent)
 
 ### ⏰ Appointment Reminder System (24h & 1h)
 Automated reminder system integrated with Google Calendar. Runs hourly, detects upcoming appointments, sends WhatsApp reminders, and marks events to avoid duplicate sends.
-→ [Ver repositorio](https://github.com/TU_USUARIO/appointment-reminder-system)
 
 ### 🔁 6-Month Patient Follow-Up System
 Reactivation agent for dental clinics. Runs daily Mon–Fri, detects patients with appointments exactly 6 months ago, and sends personalized WhatsApp re-engagement messages.
-→ [Ver repositorio](https://github.com/TU_USUARIO/patient-followup-6months)
 
 ---
 
